@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525" WindowStartupLocation="CenterScreen" >
     <Grid>
-        <TextBlock Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="25" Text="GIT SAMPLE APPLICATION" Foreground="Blue" Height="auto" FontStyle="Italic" FontFamily="Times New Roman" FontWeight="Bold"/>
+        <TextBlock Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="25" Text="GIT SAMPLE APPLICATION" Foreground="Red" Height="auto" FontStyle="Italic" FontFamily="Times New Roman" FontWeight="Bold"/>
     </Grid>
 </Window>
